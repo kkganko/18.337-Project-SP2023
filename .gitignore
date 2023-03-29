@@ -1,4 +1,4 @@
 # for formatting info, check out https://git-scm.com/docs/gitignore
 # ignore ipynb checkpointing file
 ./.ipynb_checkpoints
-./Stochastic\ Diffeqs/
+./*/.ipynb_checkpoints/*
