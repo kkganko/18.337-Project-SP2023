@@ -4,7 +4,7 @@ Chemical Langevin Equation, Stochastic Differential Equations, Parametric Identi
 
 
 # For Graders
-Relevant Code is in NeuralCLEmodel.jl
+Relevant Code is in NeuralCLEmodel.ipynb
 
 
 # Generating Project.toml and Manifest.toml
