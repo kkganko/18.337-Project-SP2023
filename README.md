@@ -2,6 +2,11 @@
 
 Chemical Langevin Equation, Stochastic Differential Equations, Parametric Identifiability, Systems Biology Case Studies.
 
+
+# For Graders
+Relevant Code is in NeuralCLEmodel.jl
+
+
 # Generating Project.toml and Manifest.toml
 
 If you have no Project.toml and Manifest.toml files in your active directory for this project (which are used for package environments separate from the base environment), then running `generate-project-toml.ipynb` will generate them for you. Take the files and copy them over to your active directory.
